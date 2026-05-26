@@ -12,7 +12,12 @@ A small Java labyrinth game with a graphical interface.
 
 ## Project Structure
 
-text src/  ├── controller/  ├── model/  ├── view/ 
+```text
+src/
+ ├── controller/
+ ├── model/
+ └── view/
+```
 
 ## Technologies
 
