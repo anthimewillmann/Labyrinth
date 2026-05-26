@@ -1,45 +1,46 @@
 # Labyrinth
 
-Ein kleines Java-Labyrinthspiel mit grafischer Oberfläche.
+A small Java labyrinth game with a graphical interface.
 
 ## Features
 
-- Spieler bewegt sich durch ein Labyrinth
-- Grafische Darstellung mit Bildern
-- Gegner/Pursuer verfolgt den Spieler
-- Gewinn- und Startbildschirm
-- Objektorientierte Struktur (MVC-ähnlich)
+- Navigate through a maze
+- Graphical interface using custom images
+- Enemy/pursuer that follows the player
+- Start and win screens
+- Object-oriented project structure
 
-## Projektstruktur
+## Project Structure
 
 text src/  ├── controller/  ├── model/  ├── view/ 
 
-## Technologien
+## Technologies
 
 - Java
 - IntelliJ IDEA
-- Objektorientierte Programmierung (OOP)
+- Object-Oriented Programming (OOP)
 
-## Spiel starten
+## How to Run
 
-### In IntelliJ IDEA
+### Using IntelliJ IDEA
 
-1. Repository klonen oder herunterladen
-2. Projekt in IntelliJ öffnen
-3. Datei:
+1. Clone or download the repository
+2. Open the project in IntelliJ IDEA
+3. Run:
 
 text src/controller/Labyrinth.java 
 
-starten.
+## Controls
 
-## Steuerung
+The player is controlled using the keyboard.
 
-Die Spielfigur wird über die Tastatur gesteuert.
+## Future Improvements
 
-## Screenshots
+- More levels
+- Improved enemy AI
+- Sound effects
+- Main menu system
 
-(Optional: Hier später Bilder vom Spiel einfügen)
-
-## Autor
+## Author
 
 Anthime Willmann
