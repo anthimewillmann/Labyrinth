@@ -4,6 +4,18 @@
 
 Labyrinth is a small desktop game built as a Java/OOP project. The player moves through a fixed 15x15 maze, tries to reach the goal, and avoids pursuers that move randomly or chase the player using pathfinding depending on the selected difficulty.
 
+## Screenshots
+
+<p align="center">
+  <img src="Screenshots/Bildschirmfoto 2026-06-09 um 11.26.10.jpeg" width="45%"/>
+  <img src="Screenshots/Bildschirmfoto 2026-06-09 um 11.27.01.jpeg" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/Bildschirmfoto 2026-06-09 um 11.27.42.jpeg" width="45%"/>
+  <img src="Screenshots/Bildschirmfoto 2026-06-09 um 11.29.15.jpeg" width="45%"/>
+</p>
+
 ## Features
 
 - Java Swing desktop UI
